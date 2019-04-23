@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule ^0.html?$ ?presentation=[1-4]
+RewriteRule ^1.html?$ ?home=[1-4]
+RewriteRule ^2.html?$ ?who=[1-4]
+RewriteRule ^3.html?$ ?feedback=[1-4]
+RewriteRule ^4.html?$ ?contact=[1-4]
+RewriteRule ^contact-devis$ ?contact=[1-4]

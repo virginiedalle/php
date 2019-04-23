@@ -1,0 +1,19 @@
+.list-group{
+  margin-top: 20%;
+  height: 50px;
+  width: 500px;
+  margin-left: 35%;
+}
+body{
+  background-image: url(../img/plume.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+   font-size: 20px;
+}
+.text{
+   text-align: center;
+   margin-top: 5%;
+   font-weight: bold;
+}
